@@ -91,6 +91,8 @@ The first page provides a high-level overview of the sales return data using:
 - Daily trend analysis
 - Material contribution analysis
 - Party-wise amount analysis
+- Page 1 - Sales Return Overview
+- <img width="1862" height="830" alt="Dashboard Page-1" src="https://github.com/user-attachments/assets/1da65a29-d810-407f-9890-eb7ffba91453" />
 
 Page 2 – Weight & Rate Analysis
 
@@ -110,6 +112,9 @@ The dashboard includes three interactive slicers:
 - Party Address
 
 These filters allow users to dynamically explore the dashboard according to their requirements.
+Page 2 - Business Analysis
+<img width="1862" height="830" alt="Dashboard Page-2" src="https://github.com/user-attachments/assets/35b6b6db-5b95-45d7-8e38-84a65ae35975" />
+
 
 Key Business Areas Analyzed
 
